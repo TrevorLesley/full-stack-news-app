@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     "accounts.apps.AccountsConfig",
     "frontend.apps.FrontendConfig",
     "api.apps.ApiConfig",
+    "articles.apps.ArticlesConfig",
     # 3rd party
     "rest_framework",
     "rest_framework.authtoken",
